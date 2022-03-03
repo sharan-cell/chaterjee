@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7f5978d.css",
+    "main.js": "/static/js/main.d54ff9ee.js",
+    "static/media/psyduckcute.jpg": "/static/media/psyduckcute.36e4db29b797efd5aa1c.jpg",
+    "index.html": "/index.html",
+    "main.f7f5978d.css.map": "/static/css/main.f7f5978d.css.map",
+    "main.d54ff9ee.js.map": "/static/js/main.d54ff9ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f5978d.css",
+    "static/js/main.d54ff9ee.js"
+  ]
+}
